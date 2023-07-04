@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">課題</string>
+    <string name="tv_title">必要な情報を入力してください。</string>
+    <string name="tv_name">名前</string>
+    <string name="tv_poadd">住所</string>
+    <string name="bt_print">表示</string>
+    <string name="bt_nclear">名前クリア</string>
+    <string name="bt_paclear">住所クリア</string>
+</resources>
